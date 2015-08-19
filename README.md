@@ -1,2 +1,3 @@
-# the-hackend-project.github.io
-The official hackend project website
+# The Hackend Project
+
+The official website for **the hackend project**.
